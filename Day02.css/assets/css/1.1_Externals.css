@@ -1,0 +1,13 @@
+.menu ul{
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+}
+
+.kizil li{
+    background-color: brown;
+}
+
+.krem li{
+    background-color: burlywood;
+}
